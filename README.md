@@ -122,6 +122,7 @@ def start(bot, update): # You can structure your code in any numbers of function
         text="I'm a bot, please talk to me!"
     )
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 And you're done. Next time you launch your bot, it'll respond to the `/start` command.
 
